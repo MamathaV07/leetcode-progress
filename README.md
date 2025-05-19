@@ -7,10 +7,10 @@ This repository contains clean, well-structured solutions to coding problems fro
 
 ## 🎯 Goals
 
-- 📘 Practice LeetCode problems consistently.
+- 🔢 Practice LeetCode problems consistently.
 - 🧠 Solve 100+ problems.
 - 🔥 Master all major dsa topics.
-- ⚡ Contribute to open source leetcode solutions.
+- 🤝 Contribute to open source leetcode solutions.
 
 ---
 
