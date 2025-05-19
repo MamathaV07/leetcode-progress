@@ -8,9 +8,9 @@ This repository contains clean, well-structured solutions to coding problems fro
 ## 🎯 Goals
 
 - 📘 Practice LeetCode problems consistently.
-- 🧠 Strengthen core DSA concepts.
-- 💼 Prepare for coding interviews & MNC placements.
-- 🗂️ Maintain a clean, organized solution archive.
+- 🧠 Solve 100+ problems.
+- 🔥 Master all major dsa topics.
+- ⚡ Contribute to open source leetcode solutions.
 
 ---
 
