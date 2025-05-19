@@ -5,18 +5,6 @@ This repository contains clean, well-structured solutions to coding problems fro
 
 ---
 
-## 📂 Folder Structure
-
-leetcode-progress/
-│
-├── Easy/
-│
-├── Medium/
-│
-└── Hard/
-
----
-
 ## 🎯 Goals
 
 - 📘 Practice LeetCode problems consistently.
@@ -29,16 +17,6 @@ leetcode-progress/
 ## 💻 Language Used
 
 - Python 🐍
-
----
-
-## 🚀 How to Use
-
-1. Browse folders by difficulty: `Easy/`, `Medium/`, `Hard/`.
-2. Each file is named after the problem (e.g., `twosum.py`).
-3. Code is organized and may include comments and the original problem link.
-4. Feel free to use, study, or build on the solutions.
-
 
 ---
 
