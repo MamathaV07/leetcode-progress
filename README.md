@@ -17,24 +17,6 @@ leetcode-progress/
 
 ---
 
-## ✅ Problems Solved
-
-### 🟢 Easy
-
-| # | Problem     | Solution File           | LeetCode Link                                      |
-|--:|-------------|--------------------------|----------------------------------------------------|
-| 1 | Two Sum     | `Easy/twosum.py`         | [🔗 View Problem](https://leetcode.com/problems/two-sum/) |
-
-### 🟡 Medium
-
-_(No problems added yet)_
-
-### 🔴 Hard
-
-_(No problems added yet)_
-
----
-
 ## 🎯 Goals
 
 - 📘 Practice LeetCode problems consistently.
@@ -57,11 +39,6 @@ _(No problems added yet)_
 3. Code is organized and may include comments and the original problem link.
 4. Feel free to use, study, or build on the solutions.
 
----
-
-## 🗓️ Timeline / Update Log
-
-- **🟢 May 19, 2025** — Added solution for **Two Sum** (Easy)
 
 ---
 
