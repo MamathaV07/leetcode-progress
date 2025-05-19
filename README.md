@@ -10,14 +10,10 @@ This repository contains clean, well-structured solutions to coding problems fro
 leetcode-progress/
 │
 ├── Easy/
-│ └── twosum.py # Solution for Two Sum
 │
 ├── Medium/
-│ └── (empty)
 │
 └── Hard/
-└── (empty)
-
 
 ---
 
